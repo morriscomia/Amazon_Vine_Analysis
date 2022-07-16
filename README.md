@@ -33,11 +33,11 @@ and we got the following results
 
 **Review by ID table**
 
-![images](https://github.com/morriscomia/Amazon_Vine_Analysis/blob/main/Resources/Review_ID_table.PNG)
+![images](https://github.com/benaziziasmae/Amazon_Vine_Analysis/blob/main/Resources/Review_ID_table.PNG)
 
 **Vine table**
 
-![images](https://github.com/morriscomia/Amazon_Vine_Analysis/blob/main/Resources/vine_table.PNG)
+![images](https://github.com/morriscomia/Amazon_Vine_Analysis/blob/main/Resources/vine_table.png)
 
 
 
@@ -52,21 +52,21 @@ We followed the according steps:
 
 And the results showed as the following:
 
-![images](https://github.com/morriscomia/Amazon_Vine_Analysis/blob/main/Resources/total_vote.PNG)
+![images](https://github.com/benaziziasmae/Amazon_Vine_Analysis/blob/main/Resources/total_vote.PNG)
 
-![images](https://github.com/morriscomia/Amazon_Vine_Analysis/blob/main/Resources/helpful_vote.PNG)
+![images](https://github.com/benaziziasmae/Amazon_Vine_Analysis/blob/main/Resources/helpful_vote.PNG)
 
-![images](https://github.com/morriscomia/Amazon_Vine_Analysis/blob/main/Resources/vine_y.PNG)
+![images](https://github.com/benaziziasmae/Amazon_Vine_Analysis/blob/main/Resources/vine_y.PNG)
 
-![images](https://github.com/morriscomia/Amazon_Vine_Analysis/blob/main/Resources/vine_n.PNG)
+![images](https://github.com/benaziziasmae/Amazon_Vine_Analysis/blob/main/Resources/vine_n.PNG)
 
-![images](https://github.com/morriscomia/Amazon_Vine_Analysis/blob/main/Resources/total_paid_reviews.PNG)
+![images](https://github.com/benaziziasmae/Amazon_Vine_Analysis/blob/main/Resources/total_paid_reviews.PNG)
 
-![images](https://github.com/morriscomia/Amazon_Vine_Analysis/blob/main/Resources/five_star_Reviews.PNG)
+![images](https://github.com/benaziziasmae/Amazon_Vine_Analysis/blob/main/Resources/five_star_Reviews.PNG)
 
-![images](https://github.com/morriscomia/Amazon_Vine_Analysis/blob/main/Resources/total_unpaid_reviews.PNG)
+![images](https://github.com/benaziziasmae/Amazon_Vine_Analysis/blob/main/Resources/total_unpaid_reviews.PNG)
 
-![images](https://github.com/morriscomia/Amazon_Vine_Analysis/blob/main/Resources/unpaid_five_star_reviews.PNG)
+![images](https://github.com/benaziziasmae/Amazon_Vine_Analysis/blob/main/Resources/unpaid_five_star_reviews.PNG)
 
 ### 3- Deliverable 3/ Results and Analysis:
 
